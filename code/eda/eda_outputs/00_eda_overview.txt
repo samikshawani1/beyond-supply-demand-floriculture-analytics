@@ -1,0 +1,30 @@
+CHRYSANTHEMUM PRICE DATA — EDA OVERVIEW
+=============================================
+Rows: 5,844
+Columns: 7
+Date range: 2010-01-01 00:00:00 to 2025-12-31 00:00:00
+Duplicate full rows: 0
+Duplicate dates: 0
+Invalid/missing parsed dates: 0
+Missing/non-numeric prices in analysis copy: 0
+
+PRICE SUMMARY
+Minimum: 10.00
+Maximum: 2,909.00
+Mean: 486.33
+Median: 360.00
+Standard deviation: 410.66
+Q1 (25%): 190.00
+Q3 (75%): 630.00
+
+MISSING VALUES BY COLUMN
+Date                0
+Price               0
+Tithi               0
+Masa                0
+Events           4153
+is_festival         0
+is_auspicious       0
+
+Event and auspicious-day analyses use the is_festival and is_auspicious columns.
+No cleaning or source-file modification is performed.
